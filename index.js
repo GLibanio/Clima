@@ -1,4 +1,4 @@
-const api = 'SUA_API';
+const api = '30ffec706ec711108b99d57a9d059219';
 const locButton = document.querySelector('.loc-button');
 const todayInfo = document.querySelector('.today-info');
 const todayWeatherIcon = document.querySelector('.today-weather i');
